@@ -17,6 +17,8 @@ sites:
     url: https://auth.numbots.com/api
   - name: NumBots API
     url: https://stats.numbots.com/api
+  - name: NumBots website
+    url: https://numbots.com
  # - name: IPv6 website
  #   url: forwardemail.net
  #   port: 80
