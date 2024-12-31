@@ -30,15 +30,18 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mathscircle.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/mathscircle/status-upptime/master/static/img/all_logo.gif
+  logoUrl: https://raw.githubusercontent.com/mathscircle/status.mathscircle.com/master/static/img/all_logo.gif
   name: Maths Circle
-  introTitle: "Our vision: Every child grows up to say **\"I am good at maths\"** "
+  introTitle: "Quickly check the status of all Math Circle's services."
   introMessage: Maths Circle is an internationally trusted EdTech company who create award-winning maths programmes, dedicated to helping children acquire fundamental numeracy skills.
   navbar:
-    - title: Our Sites Status
+    - title: Maths Circle Status
       href: /
     - title: Maths Circle
       href: https://mathscircle.com
+  robotsText: "User-agent: * \n Disallow: /"
+  theme: dark
+
 
 workflowSchedule:
   graphs: "0 0 * * *"
