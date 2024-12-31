@@ -15,7 +15,7 @@ sites:
     url: https://ttrockstars.com
   - name: NumBots Login
     url: https://auth.numbots.com/api
-    - name: NumBots API
+  - name: NumBots API
     url: https://stats.numbots.com/api
  # - name: IPv6 website
  #   url: forwardemail.net
