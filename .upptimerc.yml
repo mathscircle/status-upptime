@@ -53,7 +53,7 @@ workflowSchedule:
   uptime: "*/10 * * * *"  #set to once every 10 minutes to reduce build minutes.
 
 i18n:
-  footer: [Maths Circle Limited](https://mathscircle.com)
+  footer: "[Maths Circle Limited](https://mathscircle.com)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
